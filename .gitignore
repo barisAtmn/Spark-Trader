@@ -88,7 +88,4 @@ fabric.properties
 .idea/sbt.xml
 .idea/scala_compiler.xml
 .idea/scala_settings.xml
-build.sbt
-project/
-src/
 target/
